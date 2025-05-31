@@ -1,11 +1,3 @@
-3# g_shoes_revamped
-
-Revamped version of the [Gshoes](https://github.com/lonhattan007/gshoes) shopping app for sneaker heads.
-Simple shopping cart demonstration.
-
-This simple project can be a good starting point for learning new front-end technologies, or for a quick prototype.
-The main branch is built with my favorite stack: React.js, Vite, Zustand, and TailwindCSS.
-
 ## Materials
 
 - The sample data set and images are from the original project and provided in `data` and `assets` folders.
