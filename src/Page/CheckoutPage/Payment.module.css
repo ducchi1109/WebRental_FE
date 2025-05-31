@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.infor {
+  background-color: #ffffff;
+  border: 1px solid #8cd47e;
+  border-radius: 5px;
+  padding: 20px;
+  width: 500px;
+}
+
+.subinfor {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.methodpayment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10%;
+}
+
+.methodpayment p {
+  background-color: #8cd47e;
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  cursor: pointer;
+}
+
+.codeQR {
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #8cd47e;
+  border-radius: 5px;
+  padding: 20px;
+  width: 500px;
+}
+
+.codeQR img {
+  max-width: 300px;
+  max-width: 300px;
+}
